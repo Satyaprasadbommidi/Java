@@ -1,0 +1,9 @@
+public class Addition{
+    public static void main(String args[]){
+    int x=10,y=25,z;
+    z=x+y;
+    System.out.println("Sum of " +x+ " and " +y+ " is " +z);
+    }
+}
+out put
+Sum of 10 and 25 is 35
