@@ -1,0 +1,19 @@
+public class Main {
+  public static void main(String[] args) {
+
+    // create a double variable
+    double value1 = 44;
+    double value2 = 25;
+    double value3 = 16;
+    double value4 = 0;
+    System.out.println(Math.sqrt(value1));  
+    System.out.println(Math.sqrt(value2));  
+    System.out.println(Math.sqrt(value3));  
+    System.out.println(Math.sqrt(value4));  
+  }
+}
+out put
+6.6332495807108
+5.0
+4.0
+0.0
