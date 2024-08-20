@@ -6,11 +6,13 @@ public class StudentDetails {
     System.out.println("occupation:Daily Labour\t\t\t|\tDOB:20/07/2006");
     System.out.println("ParentMobileNo:9834765287\t\t|\tNumber of subjects passed:10");
  }
-}
+}   
 
-      Student Details
+                      out put
 
-Name:satya prasad | RegNo:23K61A4707
-FatherName:Srinu | AadharNo:925100187118
-occupation:Daily Labour | DOB:20/07/2006
-ParentMobileNo:9834765287 | Number of subjects passed:10
+                   Student Details
+
+Name:satya prasad         |   RegNo:23K61A4707
+FatherName:Srinu          |   AadharNo:925100187118
+occupation:Daily Labour   |   DOB:20/07/2006
+ParentMobileNo:9834765287 |   Number of subjects passed:10
