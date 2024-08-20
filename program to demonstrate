@@ -1,0 +1,16 @@
+import java.io.*;
+public class ThisDemo {
+    private int a;
+
+    public void setNumber(int a) {
+        this.a = a;
+        System.out.println("value of a is " + a);
+    }
+    public static void main(String[] args) {
+        ThisDemo td = new ThisDemo();
+        td.setNumber(50);
+    }
+}
+
+out put
+value of a is 50
