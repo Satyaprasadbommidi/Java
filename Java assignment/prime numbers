@@ -24,3 +24,13 @@ public class Primenumbers {
         }
     }
 }
+out put
+Enter a starting positive integer: 
+1
+Enter a ending positive integer: 
+9
+The prime numbers in the range of 1 and 9 are: 
+2
+3
+5
+7
